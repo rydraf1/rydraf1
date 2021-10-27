@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rydraf1
 - 👀 I’m interested in all skills to be a DevOps Pro
 - 🌱 I’m currently learning how best to use github
-- 💞️ I’m looking to collaborate on any project that will broden my experience.
+- 💞️ I’m looking to collaborate on any project that will broaden my experience.
 - 📫 How to reach me 
 
 <!---
